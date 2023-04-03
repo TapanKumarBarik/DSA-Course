@@ -46,3 +46,9 @@ Example 1 :
 Rotate towards the right 2 times - [1, 2, 3, 4] => [4, 1, 2, 3] => [3, 4, 1, 2]
 
 Final array = [3, 4, 1, 2]
+
+```
+reverse(arr, 0, n - 1);
+reverse(arr, 0, b - 1);
+reverse(arr, b, n - 1);
+```
